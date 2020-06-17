@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="LauraGroettrup.helloworld" version="0.1.0">
-  <name>Hello World</name>
+<widget id="LauraGroettrup.oracle" version="0.1.0">
+  <name>Oracle App</name>
   <description>
-    Example Tabris.js App
+    Extended Example Tabris.js App
   </description>
   <author email="laura.groettrup@edu.fh-joanneum.at">
     Laura Groettrup
