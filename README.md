@@ -1,4 +1,8 @@
-# Hello World
+# Oracle App
+
+## Indruduction
+
+A little App to test the build process with Tabris. It can also make good lunch suggestions.
 
 ## Run
 
